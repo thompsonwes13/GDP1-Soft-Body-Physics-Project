@@ -1,0 +1,34 @@
+Name: SkySphere
+Path: assets/models/Sphere_radius_1_xyz_N_uv.ply
+isWireFrame: false
+Colour: 80 40 5
+Transparency: 1.0
+Texture: wood_floor_texture_01.bmp 1.0
+
+Name: Ground
+Path: assets/models/Plane_with_tube_hole.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: rock_texture.bmp 1.0
+
+Name: Sphere
+Path: assets/models/Sphere_radius_1_xyz_N_uv.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: rock_texture.bmp 1.0
+
+Name: Pole
+Path: assets/models/hanging_light.ply
+isWireFrame: false
+Colour: 220 188 140
+Transparency: 1.0
+Texture: vase_texture.bmp 1.0
+
+Name: SoftBodyFlag
+Path: SoftBodyFlag
+isWireFrame: false
+Colour: 250 250 250
+Transparency: 1.0
+Texture: warhammer_flag.bmp 1.0

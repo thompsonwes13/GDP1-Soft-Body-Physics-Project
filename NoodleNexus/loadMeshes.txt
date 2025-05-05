@@ -1,0 +1,11 @@
+assets/models/Flat_Plane_xyz_N_uv.ply
+assets/models/Sphere_radius_1_xyz_N_uv.ply
+assets/models/hall/low_poly_tree_xyz_N_uv.ply
+assets/models/slinky_dog_uv_n.ply
+assets/models/teddy_xyz_n_uv.ply
+assets/models/bridge_xyz_n_uv.ply
+assets/models/bridge_xyz_n_uv_half.ply
+assets/models/rectangle_flag_xyz_n_uv.ply
+assets/models/rectangle_flag_xyz_n_uv_more_points.ply
+assets/models/hanging_light.ply
+assets/models/Plane_with_tube_hole.ply

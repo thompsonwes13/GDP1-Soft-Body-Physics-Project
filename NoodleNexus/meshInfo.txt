@@ -1,0 +1,25 @@
+SkySphere
+Position - x: 87.0529 y: 0.427768 z: -54.3446
+Rotation - x: 0 y: 0 z: 0
+Scale - 1
+
+Ground
+Position - x: -0.5 y: 1 z: 0
+Rotation - x: 0 y: 0 z: 0
+Scale - 0.2
+
+Sphere
+Position - x: 50.0 y: 200.0 z: 0
+Rotation - x: 0 y: 0 z: 0
+Scale - 5.0
+
+Pole
+Position - x: 0.0 y: 0.0 z: 0
+Rotation - x: 0 y: 0 z: 0
+Scale - 0.3
+
+SoftBodyFlag
+Position - x: 0.55 y: 3.2 z: 0.1
+Rotation - x: 0 y: 0 z: 0.0
+Scale - 1.0
+

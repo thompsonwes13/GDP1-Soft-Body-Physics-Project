@@ -1,0 +1,58 @@
+﻿  cShader.cpp
+  cShaderManager.cpp
+  cBasicFlyCamera.cpp
+  C24BitBMPpixel.cpp
+  cBasicTextureManager.cpp
+  CTextureFromBMP.cpp
+  cFlagPoleConnector.cpp
+  cLightHelper.cpp
+  cLightManager.cpp
+  cPhysics.cpp
+  cPhysics_BroadPhase.cpp
+  cPhysics_cSoftBody_Verlet.cpp
+  cSoftBodyVerlet.cpp
+  cVAOManager.cpp
+  cVAOManager_DynamicMesh.cpp
+  mouse_keyboard_async.cpp
+C:\Users\grnwt\Downloads\Fanshawe\W25\INFO6022 Physics 2\Midterm\NoodleNexus\mouse_keyboard_async.cpp(304,67): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\grnwt\Downloads\Fanshawe\W25\INFO6022 Physics 2\Midterm\NoodleNexus\mouse_keyboard_async.cpp(308,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\grnwt\Downloads\Fanshawe\W25\INFO6022 Physics 2\Midterm\NoodleNexus\mouse_keyboard_async.cpp(314,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\grnwt\Downloads\Fanshawe\W25\INFO6022 Physics 2\Midterm\NoodleNexus\mouse_keyboard_async.cpp(318,59): warning C4305: 'argument': truncation from 'double' to 'float'
+  PlyFileLoaders.cpp
+  RenderCall.cpp
+  sharedThings.cpp
+  sMesh.cpp
+  Compiling...
+  theMain.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: 'APIENTRY': macro redefinition
+  (compiling source file 'theMain.cpp')
+      C:\Users\grnwt\Downloads\Fanshawe\W25\INFO6022 Physics 2\Midterm\NoodleNexus\include\glad\glad.h(32,9):
+      see previous definition of 'APIENTRY'
+  
+C:\Users\grnwt\Downloads\Fanshawe\W25\INFO6022 Physics 2\Midterm\NoodleNexus\theMain.cpp(684,60): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\grnwt\Downloads\Fanshawe\W25\INFO6022 Physics 2\Midterm\NoodleNexus\theMain.cpp(725,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\grnwt\Downloads\Fanshawe\W25\INFO6022 Physics 2\Midterm\NoodleNexus\theMain.cpp(744,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\grnwt\Downloads\Fanshawe\W25\INFO6022 Physics 2\Midterm\NoodleNexus\theMain.cpp(756,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\grnwt\Downloads\Fanshawe\W25\INFO6022 Physics 2\Midterm\NoodleNexus\theMain.cpp(756,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\grnwt\Downloads\Fanshawe\W25\INFO6022 Physics 2\Midterm\NoodleNexus\theMain.cpp(757,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\grnwt\Downloads\Fanshawe\W25\INFO6022 Physics 2\Midterm\NoodleNexus\theMain.cpp(757,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\grnwt\Downloads\Fanshawe\W25\INFO6022 Physics 2\Midterm\NoodleNexus\theMain.cpp(759,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\grnwt\Downloads\Fanshawe\W25\INFO6022 Physics 2\Midterm\NoodleNexus\theMain.cpp(759,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\grnwt\Downloads\Fanshawe\W25\INFO6022 Physics 2\Midterm\NoodleNexus\theMain.cpp(1243,45): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\grnwt\Downloads\Fanshawe\W25\INFO6022 Physics 2\Midterm\NoodleNexus\theMain.cpp(1244,45): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\grnwt\Downloads\Fanshawe\W25\INFO6022 Physics 2\Midterm\NoodleNexus\theMain.cpp(1292,57): warning C4305: '+=': truncation from 'double' to 'T'
+C:\Users\grnwt\Downloads\Fanshawe\W25\INFO6022 Physics 2\Midterm\NoodleNexus\theMain.cpp(1292,57): warning C4305:         with
+C:\Users\grnwt\Downloads\Fanshawe\W25\INFO6022 Physics 2\Midterm\NoodleNexus\theMain.cpp(1292,57): warning C4305:         [
+C:\Users\grnwt\Downloads\Fanshawe\W25\INFO6022 Physics 2\Midterm\NoodleNexus\theMain.cpp(1292,57): warning C4305:             T=float
+C:\Users\grnwt\Downloads\Fanshawe\W25\INFO6022 Physics 2\Midterm\NoodleNexus\theMain.cpp(1292,57): warning C4305:         ]
+C:\Users\grnwt\Downloads\Fanshawe\W25\INFO6022 Physics 2\Midterm\NoodleNexus\theMain.cpp(1388,70): warning C4805: '==': unsafe mix of type 'T' and type 'bool' in operation
+C:\Users\grnwt\Downloads\Fanshawe\W25\INFO6022 Physics 2\Midterm\NoodleNexus\theMain.cpp(1388,70): warning C4805:         with
+C:\Users\grnwt\Downloads\Fanshawe\W25\INFO6022 Physics 2\Midterm\NoodleNexus\theMain.cpp(1388,70): warning C4805:         [
+C:\Users\grnwt\Downloads\Fanshawe\W25\INFO6022 Physics 2\Midterm\NoodleNexus\theMain.cpp(1388,70): warning C4805:             T=float
+C:\Users\grnwt\Downloads\Fanshawe\W25\INFO6022 Physics 2\Midterm\NoodleNexus\theMain.cpp(1388,70): warning C4805:         ]
+  glad.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1431 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  NoodleNexus.vcxproj -> C:\Users\grnwt\Downloads\Fanshawe\W25\INFO6022 Physics 2\Midterm\x64\Release\NoodleNexus.exe
