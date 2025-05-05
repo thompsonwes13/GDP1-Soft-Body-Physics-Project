@@ -11,6 +11,7 @@ Press 'Yes' on both dialogue boxes
 Movement controls:
 
 WASDQE: Move camera
+
 Click + Drag: Turn camera
 
 =======================================
@@ -18,8 +19,13 @@ Click + Drag: Turn camera
 Wind/Flag controls:
 
 G: Turn wind gust on/off
+
 H: Shoot holes in blowing flag
+
 X: Disconnect the flag from the pole
+
 C: Reset the flag back to the pole with no holes
+
 F: Drop flag into the hole
+
 B: Switch ground wireframe on/off
